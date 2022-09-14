@@ -1,21 +1,3 @@
-jflakndoflkajmcdlkjfmwead
-fajsdfa
-s"D
-dsgs
-dfg
-rsdfdg
-sdxf
-gbdf
-gvsdfx
-cgr
-stdfh
-bdfx
-hbsd
-fxdgv
-azfh
-bsdzxf
-bsbb
-dfxhbet
-yfgjhb
-sdzxf
-jdjnvkadfma.
+import pymongo
+
+print("hello")
